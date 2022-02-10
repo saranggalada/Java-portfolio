@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Factorial {
     
+    //Calculates the factorial of a number (n)
     public static long fact(long n){
         long f = 1;
         while(n>0){
